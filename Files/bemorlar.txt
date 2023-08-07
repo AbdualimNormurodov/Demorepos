@@ -1,0 +1,10 @@
+[
+  {
+    "Id": 1,
+    "FirstName": "aaaaaa",
+    "LastName": "bbbbbbb",
+    "Age": "2023-07-15T17:49:33.6872921+05:00",
+    "Diagnoz": "sdgssgfdsfs",
+    "RegestratsiyaVaqti": "2023-07-15T17:49:33.6761892+05:00"
+  }
+]
