@@ -16,6 +16,7 @@ namespace HospitalCRM
                 Age=DateTime.Now,
                 Diagnoz="sdgssgfdsfs"
             });
+            Console.WriteLine();
         }
     }
 }
